@@ -1,5 +1,6 @@
 # TECHIN510_Lab4
 
+Previous assignment is not complete. I complete README and shared a new app link.
 This app is to provide an automated way to scarpe data from the website:"https://books.toscrape.com"
 
 ## Features
